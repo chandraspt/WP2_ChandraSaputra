@@ -28,5 +28,5 @@ class Datasiswa extends CI_Controller{
         ];
         $this->load->view('view-data-siswa', $data);
         }
-    }
+    } 
 }
